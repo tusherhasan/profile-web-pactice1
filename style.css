@@ -1,0 +1,106 @@
+body{
+    margin: 0px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+h1{
+    font: size 50px;;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    color: darkgray;
+}
+.orang-highlight{
+    color: #ff00ea;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.top-banner{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg , darkviolet,tomato);
+    padding:10px 20px;
+    border-radius: 5%;
+    color:white;
+    font-weight: 700;
+    
+}
+.dream-area{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.single-experience{
+    box-shadow: 10px 10px 40px gray;
+    border-radius:5px;
+    height:80%;
+    background-color: white;
+}
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightsalmon, tomato);
+    border-image-slice: 1;
+}
+#baby-web{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,blue, cyan);
+    border-image-slice: 1;
+
+}
+footer p{
+    text-align: center;
+}
+.backround-images1{
+    background-image: url(images/header-bg.png);
+}
+.bckground-images-2{
+    background-image: url(images/biography-bg.png);
+}
+.latest-work{
+    text-align: center;
+    color: darkviolet;
+}
+.latest-work-img{
+    width: 25%;
+    float: inline-end;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.background-picture{
+    background-image: url(images/header-bg.png);
+}
+.client-say{
+    text-align: center;
+    color: gray;
+}
+.link-button-sms{
+    text-decoration: none;
+    background-image: linear-gradient(45deg , darkviolet,tomato);
+    padding:20px 60px;
+    border-radius: 5%;
+    color:white;
+    font-weight: 700;
+    position: absolute;
+    left: 45%;
+    transfrom: translate(-50%,-50%)
+}
+.moccy{
+    text-align: center;
+    color: lightslategrey;
+}
+
